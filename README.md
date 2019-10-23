@@ -25,8 +25,12 @@ description: The description of the project
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+## Installation and Usage
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+install jekyll by:
+
+run cmd
+
+replace _site directory with wuklab.github.io
+
+Visit a new Wuklab!
