@@ -1,7 +1,24 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+## Installation and Usage
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+install jekyll by:
+https://jekyllrb.com/docs/installation/ubuntu/
+
+install bundle
+```
+bundle install
+```
+
+After making your modifies,
+build and run your website in localhost by:
+```
+bundle exec jekyll server
+```
+Then visit localhost:4000 in your explorer
+
+replace _site directory with wuklab.github.io
+
+Visit a new Wuklab!
+
 
 ## How to use
  - Place a image in `/img/portfolio/`
@@ -21,16 +38,3 @@ description: The description of the project
 
 ---
 ```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
-
-## Installation and Usage
-
-install jekyll by:
-
-run cmd
-
-replace _site directory with wuklab.github.io
-
-Visit a new Wuklab!
